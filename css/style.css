@@ -47,6 +47,7 @@ header {
     position: absolute;
     top: 30%;
     left: 15%;
+    width: 700px;
 }
 
 .banner h1 {
@@ -54,6 +55,7 @@ header {
     font-size: 3.5rem;
     font-family: "Baloo Da 2";
     font-weight: 200;
+    font-size: 3.7rem;
     text-shadow: .3rem .4rem 2px rgba(0, 0, 0, .4);
     line-height: 3.5rem;
     margin-bottom: 2rem;
@@ -77,9 +79,9 @@ header {
     letter-spacing: .1rem;
     font-size: 1.2rem;
     text-transform: uppercase;
-    background: #FF0099;
-    background: -webkit-linear-gradient(to right, #493240, #FF0099);  
-    background: linear-gradient(to right, #493240, #FF0099);
+    background: #7b4397;
+    background: -webkit-linear-gradient(to right, #dc2430, #7b4397);
+    background: linear-gradient(to right, #dc2430, #7b4397);
     padding: 1rem 3rem;
     border: none;
     border-radius: 5px;
